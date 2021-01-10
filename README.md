@@ -7,5 +7,11 @@
 *Python*
 
 ## Favorite Classes Taken at UCSD
-> DSC 40B
-> PSYC 122
+> DSC 40B, PSYC 122
+
+## Interests of Mine:
+'''
+Baseball
+Movies
+Trucks
+'''
