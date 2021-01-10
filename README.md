@@ -5,3 +5,7 @@
 
 ## Favorite Programming Language:
 *Python*
+
+## Favorite Classes Taken at UCSD
+> DSC 40B
+> PSYC 122
