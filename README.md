@@ -18,5 +18,5 @@ Trucks
 
 ## Link to My Favorite Website:
 ```
-[(https://baseballsavant.mlb.com/statcast_leaderboard)]
+[baseball_savant](https://baseballsavant.mlb.com/statcast_leaderboard)
 ```
