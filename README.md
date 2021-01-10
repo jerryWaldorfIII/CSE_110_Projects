@@ -18,3 +18,8 @@ Trucks
 
 ## Link to My Favorite Website:
 [baseball_savant](https://baseballsavant.mlb.com/statcast_leaderboard)
+
+## List of My Favorite Athletes:
+- Aaron Donald
+- Chris Paul
+- Mike Trout
