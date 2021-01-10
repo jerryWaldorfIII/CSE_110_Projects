@@ -23,3 +23,8 @@ Trucks
 - Aaron Donald
 - Chris Paul
 - Mike Trout
+
+## Goals for 2021
+- [ ] Dodgers repeat as World Series Champions
+- [ ] Rams draft a better quarterback
+- [ ] Go back to in person school in the Fall
