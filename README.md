@@ -10,8 +10,8 @@
 > DSC 40B, PSYC 122
 
 ## Interests of Mine:
-'''
+```
 Baseball
 Movies
 Trucks
-'''
+```
