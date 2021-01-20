@@ -1,4 +1,4 @@
-# CSE_110_Projects
+# Jerry Waldorf's User Page
 
 ## Picture of Me
 ![picture.png](picture.png)
